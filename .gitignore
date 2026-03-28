@@ -1,0 +1,19 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+
+# Aqui puedes listar tus archivos que no quieres que la IA considere para su analisis
+# Ejemplo:
+# venv/archivo1.txt
+# venv/archivo2.txt
+# venv/archivo3.txt
+# venv/archivo4.txt
+# venv/archivo5.txt
+# venv/archivo6.txt
+# venv/archivo7.txt
+# venv/archivo8.txt
+# venv/archivo9.txt
+# venv/archivo10.txt
+
+venv/
+.venv/
+__pycache__/
+*.pyc
